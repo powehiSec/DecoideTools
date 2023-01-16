@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DecodeTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DecodeTools_jar</output-path>
+    <root id="archive" name="DecodeTools.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DecodeTools" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/apache/commons/commons-text/1.8/commons-text-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/com/auth0/java-jwt/3.10.3/java-jwt-3.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/commons-codec/commons-codec/1.14/commons-codec-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/com/alibaba/fastjson/1.2.83/fastjson-1.2.83.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/repo/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
